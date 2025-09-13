@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176330469929",
+    "project_id": "mango-contents-da160",
+    "storage_bucket": "mango-contents-da160.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176330469929:android:430f3048b74cf1bdf32238",
+        "android_client_info": {
+          "package_name": "com.yongwook.mango_contents"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUHAIy9ls1qfqU60fRQHyKtk-p_UTybhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

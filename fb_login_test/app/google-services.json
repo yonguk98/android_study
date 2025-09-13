@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499298937780",
+    "project_id": "fb-login-test-48a31",
+    "storage_bucket": "fb-login-test-48a31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499298937780:android:f39f8ba1e3acbe3ccd60e1",
+        "android_client_info": {
+          "package_name": "com.yongwook.fb_login_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC71faqSELvDb5CwJr3NC1eIdkfqMVSNEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

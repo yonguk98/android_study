@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508263559365",
+    "project_id": "fb-email-password-auth-98641",
+    "storage_bucket": "fb-email-password-auth-98641.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508263559365:android:662054c4267fb9a2f5c0ac",
+        "android_client_info": {
+          "package_name": "com.yongwook.fb_email_password_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA33t_W4a4PsFsR4TuRNWrJggBf3JtFgP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
